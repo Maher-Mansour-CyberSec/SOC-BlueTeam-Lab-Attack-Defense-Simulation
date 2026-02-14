@@ -1,5 +1,15 @@
 # Attack Simulation & SOC Validation
 
+
+## ⚠️ Important Notice
+All IP addresses and network configurations in this project (code, diagrams, screenshots, and documentation) are **placeholders**.
+Do **not** use them directly in a live environment. Please configure your own IPs before running the project.
+
+<<p align="center">
+  <img src="Attack_Simulation.png" alt="Attack Simulation & SOC Validation" width="1000"/>
+</p>
+
+
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)](https://attack.mitre.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Documentation](https://img.shields.io/badge/Docs-Complete-green)](./)
